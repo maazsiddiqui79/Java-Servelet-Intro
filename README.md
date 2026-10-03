@@ -1,8 +1,4 @@
-I checked the repository. It currently contains the **`MAAZ FIRST JAVA BACKEND`** project folder, and the repository does not yet have a description or README. [GitHub](https://github.com/maazsiddiqui79/Java-Servelet-Intro)
 
-Use this as your **`README.md`**:
-
-```markdown
 # Java Servlet Intro 🚀
 
 A beginner-friendly Java Servlet project created to understand the fundamentals of **Java backend development** using **Jakarta Servlets** and **Apache Tomcat**.
